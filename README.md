@@ -18,7 +18,7 @@ https://en.wikipedia.org/wiki/Gomoku
 ### **1. Clone the Repository**  
 ```bash
 git clone https://github.com/PhucVo1412/ProgrammingFundamentals-Gomoku.git
-cd project-name
+cd ProgrammingFundamentals-Gomoku
 ```
 ### **2. Compile the code**
 ```bash
